@@ -1,0 +1,40 @@
+.tasks {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.tasks__item {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    grid-gap: 10px;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+
+.tasks__content--done {
+    text-decoration: line-through;
+}
+
+.tasks__button {
+    border: none;
+    border-radius: 5px;
+    color: white;
+    width: 30PX;
+    height: 30px;
+    padding: 0;
+    margin: 10px;
+    cursor: pointer;
+    background-color: hsl(180, 90%, 10%);
+    transition: 2s;
+}
+
+.tasks__button:hover {
+    background-color: hsl(180, 85%, 20%);
+}
+
+.tasks__button:active {
+    background-color: hsl(180, 80%, 30%);
+}
