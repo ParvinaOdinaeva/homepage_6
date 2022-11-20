@@ -1,4 +1,4 @@
-# # Task list - original (raw) version
+# # Task list - initial version
 ## *Demo*
 <br><a rel="noreferrer noopener" target="_blank" href="https://parvinaodinaeva.github.io/homepage_6/" title="converter">Preview of work</a>
 <br>![list](https://i.postimg.cc/VkDnJZSY/task.jpg)
