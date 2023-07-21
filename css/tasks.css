@@ -1,0 +1,37 @@
+.tasks__button {
+    border: none;
+    color: white;
+    width: 25px;
+    height: 25px;
+    padding: 0;
+}
+
+
+.tasks__content--done {
+    text-decoration: line-through;
+}
+
+
+.tasks__button--done {
+    background-color: hsl(120, 60%, 30%);
+}
+
+.tasks__button--done:hover {
+    background-color: hsl(120, 60%, 35%);
+}
+
+.tasks__button--done:active {
+    background-color: hsl(120, 60%, 40%);
+}
+
+.tasks__button--remove {
+    background-color: hsl(348, 80%, 40%);
+}
+
+.tasks__button--remove:hover {
+    background-color: hsl(348, 80%, 45%);
+}
+
+.tasks__button--remove:active {
+    background-color: hsl(348, 80%, 50%);
+}
