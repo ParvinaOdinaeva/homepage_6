@@ -2,7 +2,7 @@
 ## Here is my homework from module 6 - presenting a task list
 
 The webpage was created based on the knowledge gained from previous modules, 
-updated with a page icon, openGraph, using arrow function in JS and Flex in CSS
+updated with a page icon, openGraph, using arrow function & array in JS and Grid in CSS
 
 Demo
 
